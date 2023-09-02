@@ -1,0 +1,16 @@
+//How the menu is shown as:
+
+/**
+Welcome CIBC
+Your ID is 00014286
+
+
+A. Check Balance
+B. Deposit
+C. Withdraw
+D. Previous Transaction
+E. Exit
+=================================================================
+Enter an option
+=================================================================
+  **/
